@@ -17,7 +17,7 @@ Nacional de Salud Mental (OMS).
 De implementarse el gobierno peruano tendría una distribución más estratégica para los recursos humanos y financieros en el área de Salud mental.
 
 ## 🔗 Link importantes 
-1. [Pdf del articulo del proyecto](https://github.com/MayumyCH/dc_datascientist_with_python_dsfem/blob/main/1.Introduction%20to%20Python.ipynb)
+1. [Pdf del articulo del proyecto](https://github.com/MayumyCH/mental_health_analysis_with_python/blob/main/proyecto_articulo.pdf)
 1. [Link de la data del proyecto](https://www.datosabiertos.gob.pe/dataset/minsa-salud-mental)
 2. [Notebook del proyecto](https://github.com/MayumyCH/mental_health_analysis_with_python/blob/main/proyecto_notebooks.ipynb)
 
