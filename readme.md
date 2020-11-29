@@ -14,9 +14,7 @@ costosos, por la cantidad de terapias y el alto precio de los medicamentos.
 Nacional de Salud Mental (OMS).
 
 ## 💡 Meta  
-```
 De implementarse el gobierno peruano tendría una distribución más estratégica para los recursos humanos y financieros en el área de Salud mental.
-```
 
 ## 🔗 Link importantes 
 1. [Pdf del articulo del proyecto](https://github.com/MayumyCH/dc_datascientist_with_python_dsfem/blob/main/1.Introduction%20to%20Python.ipynb)
